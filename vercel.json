@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/:path*", "destination": "https://www.rwtgames.com/:path*", "permanent": true }
+  ]
+}
